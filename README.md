@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, sou Cássio Lopes</h1>
 <h3 align="center">Desenvolvedor Fullstack em desenvolvimento</h3>
 
-- 🔭 Atualmente trabalho com delphi na empresa [KTEC Sistemas](https://ktecsistemas.com.br/)
+- 🔭 Atualmente trabalho com Java Web na empresa [DBA Suporte](http://dbasuporte.com/)
 
 - 🌱 Aprendendo **Spring-boot e VueJS**
 
