@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cassio8186&label=Profile%20views&color=0e75b6&style=flat" alt="cassio8186" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cassio8186" alt="cassio8186" /></a> </p>
-
 - 🔭Eu atualmente estou trabalhando na [Compasso UOL](https://compassouol.com/)
 
 - 📫 Como entrar em contato comigo: **cassio8186@gmail.com**
