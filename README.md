@@ -1,11 +1,8 @@
 <h1 align="center">Olá 👋, sou Cássio Lopes</h1>
-<h3 align="center">Aprendendo Spring-boot e microsserviços</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cassio8186&label=Profile%20views&color=0e75b6&style=flat" alt="cassio8186" /> </p>
 
-- 🔭Eu atualmente estou trabalhando na [Compasso UOL](https://compassouol.com/)
 
-- 📫 Como entrar em contato comigo: **cassio8186@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://linkedin.com/in/cassio-lopes-dev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="cassio-lopes-dev" height="30" width="40" /></a>
